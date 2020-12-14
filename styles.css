@@ -1,0 +1,62 @@
+body {
+background-image: url("https://www.desktopbackground.org/download/1280x1024/2012/10/01/461390_hunter-x-hunter-minimalist-wallpapers-by-kuyamark96-on-deviantart_1920x1080_h.png");
+ background-repeat: repeat-y;
+}
+
+h1 {
+color: red;
+text-align: center;
+font-family: 'Modak', cursive;
+font-size: 50px;
+     text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+}
+
+img {
+width: 400px;
+height: 200px;
+display: block;
+margin: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+color:#388ff0;
+font-size: 30px;
+font-family: 'Margarine', cursive;
+}
+
+.results {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+button {
+background-color: #f6ec02; /* Green */
+  border: none;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  font-family: 'Nerko One', cursive;
+}
+
+button:hover {
+    color: red;
+}
+
+
+
